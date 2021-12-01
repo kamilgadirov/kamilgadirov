@@ -1,6 +1,6 @@
 - Hi, I’m @kamilgadirov
 - I’m interested in Cyber Security
-- I’m currently learning Pentesting tools
+- I’m currently learning Pentesting 
 
 <!---
 kamilgadirov/kamilgadirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
